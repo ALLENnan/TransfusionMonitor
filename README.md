@@ -7,8 +7,8 @@
 ![MainUI](https://github.com/ALLENnan/TransfusionMonitor/blob/master/image/MainUI.png)
 
 ###其他
-import sun.audio.AudioPlayer;
-import sun.audio.AudioStream;
-这两个包报错则修改Forbidden reference为Worning
+import sun.audio.AudioPlayer;   
+import sun.audio.AudioStream;   
+这两个包报错则修改Forbidden reference为Worning   
 
 ![tip](https://github.com/ALLENnan/TransfusionMonitor/blob/master/image/tip.png)
